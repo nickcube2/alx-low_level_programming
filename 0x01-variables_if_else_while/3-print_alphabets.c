@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
  *
- * main - entry point
+ * main - print upper_case and lower_case.
  *
  * Return: Always 0 (success/correct)
  */
 int main(void)
-
 {
 char lower_case;
 char upper_case;
